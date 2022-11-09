@@ -16,6 +16,7 @@ I use capslock as a hyper key for skhd, use [this](https://ke-complex-modificati
 
 Feel free to steal and/or configure my dots!
 
-<img width="1680" alt="image" src="https://user-images.githubusercontent.com/64868985/199629473-b3794f3d-3476-4b14-901d-d9e6a00de63d.png">
+<img width="1680" alt="Screenshot 2022-11-08 at 10 53 42 PM" src="https://user-images.githubusercontent.com/64868985/200761371-e6988c30-b853-48c9-89cd-50efdd262d47.png">
+
 
 
